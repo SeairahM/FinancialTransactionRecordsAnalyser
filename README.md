@@ -32,20 +32,15 @@ To run the test:
 Select SystemAnalser.java, go to tools and click "Create/Update Tests". and create a new test file. Open SystemInitalizerTest, and copy and paste the testing code into your new testing file.
 To run the unit test, right click on the SystemAnalser.java file and select "test file". This will run the unit tests. 
 
-
 This code uses an example csv already stored in the project. In the class InitalizeSystem, under main, you can change what file you wish to load by changing the String filepath = "FinancialRecords.csv" -> to whatever file path you need.
 
 
-Download the file. Use whichever IDE you are comfortable with. Update the main class with the file location that the example file wherever you have stored it on your own pc. Run the SystemInitalizer as main.
 
 
 
 
-
-
-
-System coded on:
-Product Version: Apache NetBeans IDE 12.2
+## System coded on:
+Product Version: Apache NetBeans IDE 12.2 /n
 Java: 15.0.2;
 Runtime: Java(TM) SE Runtime Environment 15.0.2+7-27
 System: Mac OS X version 10.15.7 running on x86_64; UTF-8; en_AU (nb)
