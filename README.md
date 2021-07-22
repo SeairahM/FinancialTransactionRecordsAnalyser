@@ -31,11 +31,10 @@ Start a new project, copy and paste the SystemAnalser.java file under the Source
 To run the test:
 Select SystemAnalser.java, go to tools and click "Create/Update Tests". and create a new test file. Open SystemInitalizerTest, and copy and paste the testing code into your new testing file.
 To run the unit test, right click on the SystemAnalser.java file and select "test file". This will run the unit tests. 
+However, if you have the knowledge of how to run these tests via the command line, you may also do so (I will be suitably impressed and jealous). 
 
-This code uses an example csv already stored in the project. In the class InitalizeSystem, under main, you can change what file you wish to load by changing the String filepath = "FinancialRecords.csv" -> to whatever file path you need.
-
-
-
+This code uses an example csv already stored in the project. 
+In the class InitalizeSystem, under main, you can change what file you wish to load by changing the String filepath = "FinancialRecords.csv" -> to whatever file path you need.
 
 
 
