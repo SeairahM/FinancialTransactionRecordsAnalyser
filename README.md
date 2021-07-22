@@ -4,8 +4,12 @@ A simple financial analyser that will read a correctly formatted and ordered csv
 
 ## Assumptions
 Input file and records are all in a valid format 
+
 Transaction are recorded in order 
+
 Any account ID entered will exist in the record
+
+That you have knowledge of Java and can use an IDE
 
 
 ## System Design
